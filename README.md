@@ -34,19 +34,19 @@ public class vinilos {
 
     }
 
-    private static void mostrarColeccion(String[][] vinilos) {
+    public static void mostrarColeccion(String[][] vinilos) {
     }
 
-    private static void buscarArtista(String[][] vinilos, String artista) {
+    public static void buscarArtista(String[][] vinilos, String artista) {
     }
 
-    private static void mostrarBusquedaArtista(String[][] vinilos, String artista) {
+    public static void mostrarBusquedaArtista(String[][] vinilos, String artista) {
     }
 
-    private static void mostrarDisponibles(String[][] vinilos) {
+    public static void mostrarDisponibles(String[][] vinilos) {
     }
 
-    private static void mostrarTotal(String[][] vinilos) {
+    public static void mostrarTotal(String[][] vinilos) {
     }
 
     public static String[][] agregarVinilo(String coleccion[][], String alb, String art, String año) {
